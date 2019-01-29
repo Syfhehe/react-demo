@@ -1,0 +1,7 @@
+npx create-react-app my-app
+cd my-app
+npm start
+npm i uuid
+npm install --save react-router-dom
+npm i axiso
+npm run build
